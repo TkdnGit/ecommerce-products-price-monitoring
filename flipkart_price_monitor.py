@@ -1,23 +1,6 @@
 # ============================================================
 # FLIPKART PRICE MONITORING SYSTEM
 # ============================================================
-#
-# Input:
-#   products.csv
-#
-# Output:
-#   data/price_history.csv
-#   reports/Flipkart_Price_Monitoring_Report.xlsx
-#
-# RUN:
-#   python flipkart_price_monitor.py
-#
-# IMPORTANT:
-#   Program চালু করলেই সঙ্গে সঙ্গে scraping শুরু হবে।
-#   কোনো fixed time / scheduler নেই।
-#
-# ============================================================
-
 
 # ============================================================
 # 1. IMPORT LIBRARIES
