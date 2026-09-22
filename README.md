@@ -1,4 +1,3 @@
-
 Flipkart Price Monitoring System
 
 A Python + Selenium based Flipkart product price monitoring system that collects product information every time the program is run and maintains historical price and availability data.
@@ -52,21 +51,6 @@ Generates an Excel report with multiple worksheets
 Runs immediately when the Python program starts
 
 No fixed schedule.
-
-Project Structure
-
-Flipkart-Price-Monitoring/
-│
-├── flipkart_price_monitor.py
-├── products.csv
-├── requirements.txt
-├── README.md
-│
-├── data/
-│   └── price_history.csv
-│
-└── reports/
-    └── Flipkart_Price_Monitoring_Report.xlsx
 
 Input File
 
