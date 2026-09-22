@@ -246,6 +246,24 @@ Price-change analysis
 
 Availability monitoring
 
+E-commerce price monitoring
+
+Competitor price tracking
+
+Product availability monitoring
+
+Historical price analysis
+
+Automated web scraping
+
+Scheduled data collection
+
+Excel reporting
+
+Price-change detection
+
+Inventory/availability alerts
+
 CSV data storage
 
 Excel report generation
